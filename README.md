@@ -5,14 +5,14 @@ Chris Titus https://github.com/ChrisTitusTech/winutil
 **Description**: meant to streamline installs, debloat with tweaks, troubleshoot with config, and fix Windows updates.
 
 Launch Command: 
-# `iwr -useb https://christitus.com/win | iex`
+# iwr -useb https://christitus.com/win | iex
 
 **Bloatbox** https://github.com/builtbybel/bloatbox/releases/tag/0.20.0
 
 Description: PowerShell script module.
 
  Make sure to run:
- # `Set-ExecutionPolicy Unrestricted -Force`
+ # Set-ExecutionPolicy Unrestricted -Force
 
 **Destroy Windows 10 spying** https://m.majorgeeks.com/files/details/destroy_windows_10_spying.html
 
