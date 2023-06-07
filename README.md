@@ -2,23 +2,27 @@
 
 ### Programs & Scripts:
 
-- [Chris Titus](https://github.com/ChrisTitusTech/winutil) Meant to streamline installs, debloat, tweaks, troubleshooting, and fix Windows updates.
+- [Chris Titus](https://github.com/ChrisTitusTech/winutil) - Meant to streamline installs, debloat, tweaks, troubleshooting, and fix Windows updates.
 
-- [Privatezilla](https://github.com/builtbybel/privatezilla) Privatezilla is the simplest way to perform a quick privacy and security check of your Windows 10 copy. 
+- [Privatezilla](https://github.com/builtbybel/privatezilla) - The simplest way to perform a quick privacy and security check of your Windows 10 copy. 
 
-- [Bloatbox](https://github.com/builtbybel/bloatbox) Remove preinstalled apps on Windows. 
+- [Bloatbox](https://github.com/builtbybel/bloatbox) - Remove preinstalled apps on Windows. 
 
-- [Destroy Windows 10 spying](https://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) A portable app that can block anonymous data being sent, remove apps and more.
+- [Destroy Windows 10 spying](https://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) - A portable app that can block anonymous data being sent, remove apps and more.
 
-- [Sycnex script](https://github.com/Sycnex/Windows10Debloater) Removes Windows pre-installed unnecessary applications, stop some telemetry functions, disable unnecessary scheduled tasks...
+- [Sycnex script](https://github.com/Sycnex/Windows10Debloater) - Removes Windows pre-installed unnecessary applications, stop some telemetry functions, disable unnecessary scheduled tasks...
 
-- [O&OS](https://www.oo-software.com/en/shutup10) Adapt your security settings, protect your privacy, control location services, disable telemetry, data and diagnostics...
+- [O&OS](https://www.oo-software.com/en/shutup10) - Adapt your security settings, protect your privacy, control location services, disable telemetry, data and diagnostics...
 
-- [Winaero Tweaker](https://winaero.com/winaero-tweaker/) allows you to customize the appearance and behavior of the operating system. through the windows registry.
+- [Winaero Tweaker](https://winaero.com/winaero-tweaker/) - Allows you to customize the appearance and behavior of the operating system. through the windows registry.
 
 ---
 
-### **Other Projects Related to Windows Privacy and Debloating**
+### **Modified Windows Privacy and Debloating**
+
+**NTLite** - Make your own Windows ISO 
+- [Official Website](https://www.ntlite.com/)
+- [Guide](https://christitus.com/ntlite-guide/)
 
 **NTDEV Tiny Windows**
 - [Windows 10](https://archive.org/details/tiny-10-NTDEV)
