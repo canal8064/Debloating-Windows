@@ -1,6 +1,6 @@
 ## **Windows 10/11 Debloating Guide**
 
-### Programs and scripts:
+### Programs & Scripts:
 
 - [Chris Titus] (https://github.com/ChrisTitusTech/winutil)
 
@@ -16,7 +16,7 @@
 
 ---
 
-### **Other projects Related to Windows privacy and debloat**
+### **Other Projects Related to Windows Privacy and Debloating**
 
 **NTDEV Tiny Windows**
 - [Windows 10] (10https://archive.org/details/tiny-10-NTDEV)
