@@ -2,28 +2,28 @@
 
 ### Programs & Scripts:
 
-- [Chris Titus] (https://github.com/ChrisTitusTech/winutil)
+- [Chris Titus](https://github.com/ChrisTitusTech/winutil)
 
-- [Bloatbox] (https://github.com/builtbybel/bloatbox/releases/tag/0.20.0)
+- [Bloatbox](https://github.com/builtbybel/bloatbox/releases/tag/0.20.0)
 
-- [Destroy Windows 10 spying] (https://m.majorgeeks.com/files/details/destroy_windows_10_spying.html)
+- [Destroy Windows 10 spying](https://m.majorgeeks.com/files/details/destroy_windows_10_spying.html)
 
-- [Sycnex script] (https://github.com/Sycnex/Windows10Debloater)
+- [Sycnex script](https://github.com/Sycnex/Windows10Debloater)
 
-- [O&OS] (https://www.oo-software.com/en/shutup10)
+- [O&OS](https://www.oo-software.com/en/shutup10)
 
-- [Winaero Tweaker] (https://winaero.com/winaero-tweaker/)
+- [Winaero Tweaker](https://winaero.com/winaero-tweaker/)
 
 ---
 
 ### **Other Projects Related to Windows Privacy and Debloating**
 
 **NTDEV Tiny Windows**
-- [Windows 10] (10https://archive.org/details/tiny-10-NTDEV)
-- [Windows 11] (https://archive.org/details/tiny-11-NTDEV)
+- [Windows 10](https://archive.org/details/tiny-10-NTDEV)
+- [Windows 11](https://archive.org/details/tiny-11-NTDEV)
 
 **Atlas OS**
-- [Official Website] (https://atlasos.net/)
+- [Official Website](https://atlasos.net/)
 - [Github] (https://github.com/Atlas-OS/Atlas)
 
 **Windows Spectre**
