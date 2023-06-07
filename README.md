@@ -1,7 +1,7 @@
-# Windows 10/11 Debloating Guide:
+    # Windows 10/11 Debloating Guide:
 
 Chris Titus https://github.com/ChrisTitusTech/win10script
-iwr -useb https://christitus.com/win | iex
+`iwr -useb https://christitus.com/win | iex`
 
 Bloatbox https://github.com/builtbybel/bloatbox/releases/tag/0.20.0
 
