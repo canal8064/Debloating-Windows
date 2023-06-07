@@ -1,28 +1,40 @@
-    # Windows 10/11 Debloating Guide:
+## **Windows 10/11 Debloating Guide**
 
-Chris Titus https://github.com/ChrisTitusTech/win10script
-`iwr -useb https://christitus.com/win | iex`
+Chris Titus https://github.com/ChrisTitusTech/winutil
 
-Bloatbox https://github.com/builtbybel/bloatbox/releases/tag/0.20.0
+**Description**: meant to streamline installs, debloat with tweaks, troubleshoot with config, and fix Windows updates.
 
-Destroy Windows 10 spying https://m.majorgeeks.com/files/details/destroy_windows_10_spying.html
+Launch Command: 
+# `iwr -useb https://christitus.com/win | iex`
 
-Sycnex script https://github.com/Sycnex/Windows10Debloater
+**Bloatbox** https://github.com/builtbybel/bloatbox/releases/tag/0.20.0
 
-O&OS https://www.oo-software.com/en/shutup10
+Description: PowerShell script module.
 
-Winaero Tweaker https://winaero.com/winaero-tweaker/
+ Make sure to run:
+ # `Set-ExecutionPolicy Unrestricted -Force`
 
-EXPLICACION:
+**Destroy Windows 10 spying** https://m.majorgeeks.com/files/details/destroy_windows_10_spying.html
 
-Winaero Tweaker - An essential software for all Windows users that allows customization of the appearance and behavior of the operating system.
+Description: A portable program that can block the sending of anonymous data, remove applications, and more.
 
-Bloatbox - PowerShell script module.
+**Sycnex script** https://github.com/Sycnex/Windows10Debloater
 
-Destroy Windows 10 Spying - A portable program that can block the sending of anonymous data, remove applications, and more.
+Description: PS script to improve the performance and privacy of Windows.
 
-Sycnex - PS script to improve the performance and privacy of Windows.
+**O&OS** https://www.oo-software.com/en/shutup10
 
-O&O ShutUp10 - A free privacy tool that gives you full control over which functions in Windows you choose to use and to what extent data is shared.
+Description: A free privacy tool that gives you full control over which functions in Windows you choose to use and to what extent data is shared.
 
-Chris Titus - PS script to improve the performance and privacy of Windows.
+**Winaero Tweaker** https://winaero.com/winaero-tweaker/
+
+Description: An essential software for all Windows users that allows customization of the appearance and behavior of the operating system.
+
+
+Other projects Related to Windows privacy and debloat:
+
+Tiny 10/11
+
+Atlas OS
+
+Windows SPECTRE
