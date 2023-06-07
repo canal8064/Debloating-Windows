@@ -18,7 +18,7 @@
 
 ---
 
-### **Modified Windows Privacy and Debloating**
+### **Modified Windows Images**
 
 **NTLite** - Make your own Windows ISO 
 - [Official Website](https://www.ntlite.com/)
