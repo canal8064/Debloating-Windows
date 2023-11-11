@@ -6,6 +6,8 @@
 
 - [Wintoys](https://apps.microsoft.com/detail/wintoys/9P8LTPGCBZXD?hl=en-US&gl=US) - Set up, debloat, optimize, repair, and tweak your operating system in a simple, time-saving manner.
 
+- [BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Universal Debloater and PC Manager for Windows
+
 - [Privatezilla](https://github.com/builtbybel/privatezilla) - The simplest way to perform a quick privacy and security check of your Windows 10 copy. 
 
 - [Bloatbox](https://github.com/builtbybel/bloatbox) - Remove preinstalled apps on Windows. 
