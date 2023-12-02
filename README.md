@@ -1,6 +1,6 @@
 ## **Windows 10/11 Debloating Guide**
 
-### Disclaimer: NONE of these scripts will guarantee your Windows System to be  completly free of Microsoft Spyware! I recommend a 3 rd party to control your traffic!
+### Disclaimer: NONE of these scripts will guarantee your Windows System to be  completly free of Microsoft Spyware! I recommend using 3rd party firewall your traffic!
 
 ## Programs & Scripts:
 
