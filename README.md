@@ -53,7 +53,7 @@
 
 ### **NTDEV Tiny Windows**
 
-<img src=" https://i.ytimg.com/vi/_1tBKFa-Ykc/maxresdefault.jpg " width="60%" />
+<img src="https://i.ytimg.com/vi/TSI0g_CJgPs/maxresdefault.jpg" width="60%" />
 
 - [**Tiny 10**](https://archive.org/details/tiny-10-NTDEV)
 - [**Tiny 11**](https://archive.org/details/tiny-11-NTDEV)
