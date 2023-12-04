@@ -1,4 +1,4 @@
-## **Windows 10/11 Debloating Guide**
+# **Windows 10/11 Debloating Guide**
 
 #### **DISCLAIMER**: None of these scripts will guarantee your Windows System to be  completly free of Microsoft Spyware!
 
@@ -66,7 +66,7 @@
 
 - [**Official Website**](https://atlasos.net/)
 - [**Github**](https://github.com/Atlas-OS/Atlas)
-- [**Atlas OS for Windows 10 & 11**](https://docs.atlasos.net/getting-started/installation/)
+- [**Atlas OS: Windows 10 & 11**](https://docs.atlasos.net/getting-started/installation/)
 
 ### [DEPRECATED] **Windows Spectre** [Windows 10 ONLY]
 <img src="https://i.ibb.co/LkhKghr/GHOSTSPECTREDESK.jpg" width="35%"  />
